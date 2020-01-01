@@ -1,0 +1,12 @@
+{
+  "name": "UHC-Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "SamMat83"
+  "licence": "ISC"
+  "dependencies": {
+    "discord.js": "11.2.1"
+  }
+}
+    
