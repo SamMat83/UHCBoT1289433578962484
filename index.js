@@ -6,7 +6,7 @@ client.on("ready", ()=> {
     console.log("Bot Connecté");
 });
 
-client.login("NDgwNDE5MDE2NTMyMjk1Njgw.XguzAQ.Ao7F_CFx7JUNUf7hNcieTcDSJo4");
+client.login("process.env.TOKEN");
 
 client.on("ready", ()=> {
     client.user.setPresence({
